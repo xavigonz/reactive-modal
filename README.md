@@ -1,4 +1,4 @@
-meteor-reactive-modal
+meteor-reactive-modale
 =====================
 
 How to Use
